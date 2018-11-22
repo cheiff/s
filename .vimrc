@@ -6,6 +6,7 @@ set relativenumber
 set number
 set hidden
 set list
+set listchars=tab:>-
 set scrolloff=5
 set langmap=hk,j`,kj,`h
 nnoremap <space> za
